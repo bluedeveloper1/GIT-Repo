@@ -1,3 +1,3 @@
-print "Hello, World"
+print "Hel, World"
 
 print "Hi, Worldwide"
